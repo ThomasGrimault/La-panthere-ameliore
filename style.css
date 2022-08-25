@@ -639,16 +639,13 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
 h3,
 h4,
 h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
@@ -1043,6 +1040,10 @@ h4 {
 
 /* Nouveau code css pour améliorer le site */
 
+.titre-orange {
+    color:#F3976C ;
+}
+
 .presentation-agence {
     font-size: 22px ;
     padding: 0 195px 0 195px ;
@@ -1062,4 +1063,12 @@ h4 {
 
 .titre-réalisations {
     padding: 0 270px 0 270px ;
+}
+
+.liens-réseaux-sociaux {
+    margin: 40px 0 40px 0 ;
+}
+
+.liens-footer {
+    color: #FFFFFF ;
 }
